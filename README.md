@@ -1,7 +1,7 @@
 # 💫 About Me
 - **Associate Software Engineer @ Data Edge Limited** — Backend and server management, Laravel APIs, Linux DevOps (July 2025 - Present)
 - **Backend Engineer @ dev.resolved** — Django REST APIs, authentication, server/database systems (July 2024 - June 2025)
-- **Computer Science Graduate, IUB** — CGPA 3.67 (2020–2023)
+- **Computer Science Graduate, IUB** — (2020–2023)
 - **Published ML researcher (IEEE Access)** — Custom CNN for face mask surveillance, 98.99% accuracy (BIDNet model)
 - **Open for collaboration** — Let's build something useful and scalable!
 - **Learning:** Currently focused on *Golang* for backend development and mastering OOP principles.
@@ -27,7 +27,7 @@
 ---
 
 ## 📚 Education & Awards
-- **BSc in Computer Science Engineering** — Independent University, Bangladesh (CGPA 3.67)
+- **BSc in Computer Science Engineering** — Independent University, Bangladesh
 - **Vice Chancellor’s and Dean’s Lists** — Multiple times
 - **Executive Web Master @ JUKTI - CSE Club, IUB**
 
