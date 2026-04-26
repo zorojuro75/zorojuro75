@@ -80,16 +80,10 @@ I'm open to collaborations on:
 ![](https://github-readme-stats.vercel.app/api?username=zorojuro75&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zorojuro75&theme=radical)
 
-### 🔝 Top Contributed Repo
-<!-- Pin your e-commerce site, BIDNet, or relevant top repos -->
-
 ---
 
 ## ✍️ Random Dev Quote
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
-
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
 
