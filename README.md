@@ -1,11 +1,32 @@
+![Profile Views](https://komarev.com/ghpvc/?username=zorojuro75&color=blueviolet)
+
+---
 # 💫 About Me
-- **Associate Software Engineer @ Data Edge Limited** — Backend and server management, Laravel APIs, Linux DevOps (July 2025 - Present)
-- **Backend Engineer @ dev.resolved** — Django REST APIs, authentication, server/database systems (July 2024 - June 2025)
-- **Computer Science Graduate, IUB** — (2020–2023)
-- **Published ML researcher (IEEE Access)** — Custom CNN for face mask surveillance, 98.99% accuracy (BIDNet model)
-- **Open for collaboration** — Let's build something useful and scalable!
-- **Learning:** Currently focused on *Golang* for backend development and mastering OOP principles.
-- **Fun Fact:** My life is a meme. Ask me anything except life advice!
+
+Hey! I'm **Sayed Al Banna**, an **Associate Software Engineer @ Data Edge Limited** with a passion for building scalable backend systems and solving real-world problems through code.
+
+**🎯 What I Do:**
+- Design and develop robust **REST APIs** using Laravel, Django, and Node.js
+- Architect **backend systems** and manage Linux infrastructure
+- Conduct **ML research** in Computer Vision (published in IEEE Access)
+- Explore emerging tech like **Golang** for high-performance backends
+
+**🌟 Highlights:**
+- 2+ years of professional backend development experience
+- Published ML researcher with 98.99% accuracy CNN for face mask detection
+- CS graduate from **IUB** with Vice Chancellor’s Dean's List honors
+- Open source enthusiast & active contributor
+
+**💭 Philosophy:** I believe in writing clean, maintainable code and building products that scale. Currently mastering Golang and microservices architecture.
+
+**Fun Fact:** My life is a meme. Ask me anything except life advice! 😄
+
+---
+
+## 🔄 Currently Working On
+- Building scalable backend systems with Golang
+- Exploring microservices architecture
+- Contributing to open-source projects
 
 ---
 
@@ -15,14 +36,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-al-banna-2419211a8/)
 
 ---
+## 💼 Let's Connect!
+I'm open to collaborations on:
+- Backend API development (Laravel, Django, Node.js, Golang)
+- DevOps & Linux infrastructure projects
+- Machine Learning & Computer Vision challenges
+- **📧 Reach out:** smasayedalbanna75@gmail.com
+---
 
-## 💻 Tech Stack
-**Frontend:** Next.js, React, TypeScript, TailwindCSS, Bootstrap  
-**Backend:** Laravel, Django, Node.js, Golang (learning), REST API  
-**Infra/DevOps:** Linux server config, automation, performance monitoring  
-**Databases:** MySQL, SQL, Supabase  
-**Machine Learning/Research:** Custom CNNs, Deep Learning, Image Processing, Computer Vision  
-**Other:** Postman, GitHub Pages, Netlify, Vercel, Heroku, Figma, Canva, Arduino
+## 🎓 Skills at a Glance
+| Category | Skills |
+|----------|--------|
+| **Backend** | Laravel, Django, Node.js, Golang |
+| **Frontend** | React, Next.js, TypeScript, TailwindCSS |
+| **DevOps** | Linux, Docker, AWS/GCP (optional) |
+| **ML/AI** | CNNs, Computer Vision, TensorFlow |
 
 ---
 
@@ -33,8 +61,17 @@
 
 ---
 
-## ✍️ Publications
-- **BIDNet: Smart Surveillance System, IEEE Access (2024)** — Lightweight CNN for face mask detection.
+## ✍️ Publications & Research
+
+1. **A Smart Surveillance System for Facemask Detection Using Custom CNN—BIDNet**
+   - *IEEE Access*, 2024 | Vol. 12, Pages 122769-122784
+   - Custom lightweight CNN achieving **98.99% accuracy**
+   - [[View Paper]](https://api.semanticscholar.org/CorpusID:270159909)
+
+2. **Adaptive Denoising Filter Selection for Preprocessing Low-Light Images via Feature-Based Machine Learning Noise Classification System**
+   - *IEEE 23rd Student Conference on Research and Development (SCOReD)*, 2025
+   - Pages 1-6
+   - [[View Paper]](https://api.semanticscholar.org/CorpusID:286015692)
 
 ---
 
