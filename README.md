@@ -77,7 +77,6 @@ I'm open to collaborations on:
 
 ## 📈 GitHub Stats & Projects
 <!-- Add your pinned repos, stats cards, and contributions widgets here -->
-![](https://github-readme-stats.vercel.app/api?username=zorojuro75&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zorojuro75&theme=radical)
 
 ---
