@@ -6,7 +6,8 @@
 Hey! I'm **Sayed Al Banna**, an **Associate Software Engineer @ Data Edge Limited** with a passion for building scalable backend systems and solving real-world problems through code.
 
 **🎯 What I Do:**
-- Design and develop robust **REST APIs** using Laravel, Django, and Node.js
+- Design and develop robust **REST APIs** using Laravel, and Golang
+- Master at bulding **Clean Architecture**
 - Architect **backend systems** and manage Linux infrastructure
 - Conduct **ML research** in Computer Vision (published in IEEE Access)
 - Explore emerging tech like **Golang** for high-performance backends
