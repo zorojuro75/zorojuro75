@@ -14,8 +14,8 @@ Hey! I'm **Sayed Al Banna**, an **Associate Software Engineer @ Data Edge Limite
 
 **🌟 Highlights:**
 - 2+ years of professional backend development experience
-- Published ML researcher with 98.99% accuracy CNN for face mask detection
-- CS graduate from **IUB** with Vice Chancellor’s Dean's List honors
+- Published one Q1 ranked journal and another conference paper on Image processing
+- CSE graduate from **IUB** with Vice Chancellor’s Dean's List honors
 - Open source enthusiast & active contributor
 
 **💭 Philosophy:** I believe in writing clean, maintainable code and building products that scale. Currently mastering Golang and microservices architecture.
