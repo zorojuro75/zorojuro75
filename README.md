@@ -50,7 +50,7 @@ I'm open to collaborations on:
 |----------|--------|
 | **Backend** | Laravel, Django, Node.js, Golang |
 | **Frontend** | React, Next.js, TypeScript, TailwindCSS |
-| **DevOps** | Linux, Docker, AWS/GCP (optional) |
+| **DevOps** | Linux, Docker |
 | **ML/AI** | CNNs, Computer Vision, TensorFlow |
 
 ---
